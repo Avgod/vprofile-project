@@ -40,7 +40,7 @@ pipeline {
             }
             post {
                 success {
-                    echo 'Generated Analysis Report'
+                    echo 'Generated code Analysis Report'
                 }
             }
         }
